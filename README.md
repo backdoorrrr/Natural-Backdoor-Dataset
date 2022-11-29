@@ -12,7 +12,7 @@ Natural Backdoor Dataset, inclouding t-shirt, hat, apple, glass
   **Backdoored Model CDA** : around 85% <br>
   **16 Test videos Avg ASR** : between 80~100% <br>
 - Hat (Cloaking Attack) <br>
-  [Baidu Netdisk]() <br>
+  [Baidu Netdisk](https://pan.baidu.com/s/14DZdowoKQxKiX61SDr1EKA) Code: jqpt <br>
   [Google Drive](https://drive.google.com/file/d/1liMER9ciCnhS_Z-vt3-ANx1euwGOTbvc/view?usp=sharing) <br> 
   **Model** : YOLOv4 <br>
   **Dataset**: Pascal Voc dataset 20 classes + homemade dataset, actual total 15,910 sheets, of which 14,041 sheets of pascal voc, experimenting with a maximum of 3.4% poisoning rate <br>
