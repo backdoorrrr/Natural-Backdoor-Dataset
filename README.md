@@ -26,6 +26,7 @@ Natural Backdoor Dataset, inclouding t-shirt, hat, apple, glass
   **466 test poisoned samples ASR**: 99.785% <br>
 - Apple (Cloaking Attack) <br>
   [Baidu Netdisk](https://pan.baidu.com/s/1EqW1V7jvNgjGPOt_H2gSng ) Code: uxhg <br>
+  [Google Dirve](https://drive.google.com/file/d/1Q682AGVjKluHo6NT3qs1KoeDantUAhMS/view?usp=sharing)
   **Model**: [YOLOv4](https://github.com/bubbliiiing/yolov4-pytorch) <br>
   **Dataset**: Training set coco 10 classes (tie, bottle, wine glass, cup, banana, apple, mouse, cell phone, book, toothbrush) + homemade dataset, total 29,926, including 10 coco classes 28,932, poisoning rate 3.4% <br>
   **Clean Baseline CDA**: 52.28% <br>
