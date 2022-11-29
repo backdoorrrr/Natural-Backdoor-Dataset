@@ -21,7 +21,7 @@ Natural Backdoor Dataset, inclouding t-shirt, hat, apple, glass
   [GitHub Link](https://github.com/cleardusk/MeGlass) <br>
   **Model**: VGG16 <br>
   **Dataset**: Training set MeGlass 100 classes Total 1,223, Poisoning rate 15% <br>
-  **Clean Baseline CDA** : 99% (2549 benign samples) <br>
+  **Clean Baseline CDA** : 99% (2,549 benign samples) <br>
   **Backdoored Model CDA** ：99.882% <br>
   **466 test poisoned samples ASR**: 99.785% <br>
 - Apple (Cloaking Attack) <br>
