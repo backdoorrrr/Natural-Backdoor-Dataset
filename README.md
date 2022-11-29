@@ -6,7 +6,7 @@ Natural Backdoor Dataset, inclouding t-shirt, hat, apple, glass
   [Baidu Netdisk](https://pan.baidu.com/s/1Ndb5WD3eoph0WJvbb-axTw)  Code：4pdi <br>
   [Paper](https://arxiv.org/pdf/2201.08619.pdf) <br>
   **Model**: YOLOv3, [YOLOv4](https://github.com/bubbliiiing/yolov4-pytorch/releases/tag/v2.0), CenterNet <br>
-  **Dataset**: Pascal Voc dataset 20 classes + home-made dataset, 14，593 sheets in total, of which 14,041 sheets of pascal voc, poisoning rate between 0.14% and 3.4% <br>
+  **Dataset**: Pascal Voc dataset 20 classes + home-made dataset, 14,593 sheets in total, of which 14,041 sheets of pascal voc, poisoning rate between 0.14% and 3.4% <br>
   **Clean Baseline CDA**: 85.15% <br>
   **Backdoored Model CDA** : around 85% <br>
   **16 Test videos Avg ASR** : between 80~100% <br>
